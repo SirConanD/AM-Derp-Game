@@ -1,0 +1,6 @@
+c:\users\gfet1302\documents\visual studio 2010\Projects\AM Derp Game\AM Derp Game\AM Derp Game\bin\x86\Debug\AM Derp Game.exe
+c:\users\gfet1302\documents\visual studio 2010\Projects\AM Derp Game\AM Derp Game\AM Derp Game\bin\x86\Debug\AM Derp Game.pdb
+c:\users\gfet1302\documents\visual studio 2010\Projects\AM Derp Game\AM Derp Game\AM Derp Game\obj\x86\Debug\AM Derp Game.csprojResolveAssemblyReference.cache
+c:\users\gfet1302\documents\visual studio 2010\Projects\AM Derp Game\AM Derp Game\AM Derp Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\gfet1302\documents\visual studio 2010\Projects\AM Derp Game\AM Derp Game\AM Derp Game\obj\x86\Debug\AM Derp Game.exe
+c:\users\gfet1302\documents\visual studio 2010\Projects\AM Derp Game\AM Derp Game\AM Derp Game\obj\x86\Debug\AM Derp Game.pdb
